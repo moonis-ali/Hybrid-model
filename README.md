@@ -31,7 +31,7 @@ pip install numpy jakteristics
 1. Clone the repository:
    ```bash
    git clone https://github.com/moonis-ali/Hybrid-model.git
-   cd point-cloud-verticality
+   cd Hybrid-model
    ```
 
 2. Place your `.xyz` point cloud files in the `data` directory or any folder of your choice.

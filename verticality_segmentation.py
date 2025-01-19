@@ -8,7 +8,7 @@ threshold_wrong_branch = 0.5
 threshold_verticality = 0.3
 
 # Specify the directory containing the point cloud files
-directory = "/home/moonis/test/"
+directory = "path/to/your/point-cloud-files/"
 
 # Create the 'lower' and 'upper' directories if they don't exist
 lower_dir = os.path.join(directory, "lower")
